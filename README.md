@@ -18,4 +18,4 @@ Detailed margin analysis based on zip codes is provided to understand geographic
 
 Data Sources
 
-The dashboard utilizes data from our pharmacy database, including transactional information, customer details, and geographic data such as zip codes. Due to the maintaining customer privacy, any identifying information has been blurred out. 
+The dashboard utilizes data from our pharmacy database, including transactional information, customer details, and geographic data such as zip codes. Due to the maintaining customer privacy, any identifying information has been redacted. 
